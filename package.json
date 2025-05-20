@@ -33,6 +33,7 @@
     "nunjucks": "^3.0.0"
   },
   "dependencies": {
+    "hexo-renderer-pandoc": "^0.5.0",
     "hexo-theme-fluid": "file:"
   }
 }
