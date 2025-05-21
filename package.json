@@ -33,8 +33,9 @@
     "nunjucks": "^3.0.0"
   },
   "dependencies": {
-    "@traptitech/markdown-it-katex": "^3.6.0",
+    "@ruanyf/markdown-it-katex": "^5.0.0",
     "hexo-renderer-markdown-it": "^7.1.1",
-    "hexo-theme-fluid": "file:"
+    "hexo-theme-fluid": "file:",
+    "markdown-it": "^14.1.0"
   }
 }
